@@ -29,3 +29,7 @@
   list-style: none;
   margin-bottom: 10px;
 }
+.pendente:nth-child(even):not(:first-child) {
+  background-color: #8fd14f;
+  color: white;
+}
