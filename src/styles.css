@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.concluido {
+  border: 2px solid #0ca789;
+  border-radius: 6px;
+  padding: 7px;
+  padding-left: 15px;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 10px;
+}
+.excluida {
+  border: 2px solid #eb4045;
+  border-radius: 6px;
+  padding: 7px;
+  padding-left: 15px;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 10px;
+}
+.pendente {
+  border: 2px solid #8fd14f;
+  border-radius: 6px;
+  padding: 7px;
+  padding-left: 15px;
+  text-align: left;
+  list-style: none;
+  margin-bottom: 10px;
+}
